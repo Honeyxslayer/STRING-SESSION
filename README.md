@@ -1,6 +1,6 @@
-<h1 align="center"><b>❤️ BRANDED STRING SESSION BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ HONEY STRING SESSION BOT ❤️</b></h1>
 <p align="center">
-  <img src="https://te.legra.ph/file/90e709718e7dac641aaf7.jpg" alt="StringGen">
+  <img src="https://telegra.ph/file/9dabac88407bd1fcdfa66.jpg" alt="StringGen">
 </p>
 ## ʀᴇᴘᴏ sᴛᴀᴛs
 <a href="https://github.com/WCGKING/STRING-SESSION"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WCGKING&repo=STRING-SESSION&theme=chartreuse-dark"></a>
@@ -12,7 +12,7 @@
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
   <a href="https://github.com/WCGKING"><img alt="Website" src="https://img.shields.io/badge/𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚"></a>
  
-[![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://img.shields.io/github.com/WCGKING/STRING-SESSION?style=social)](https://github.com/WCGKING/STRING-SESSION/stargazers)
+[![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://img.shields.io/github.com/honeyxdeveloper/STRING-SESSION?style=social)](https://github.com/WCGKING/STRING-SESSION/stargazers)
   [![Forks](https://img.shields.io/github/forks/WCGKING/STRING-SESSION?style=social)](https://github.com/WCGKING/STRING-SESSION/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
