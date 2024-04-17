@@ -16,17 +16,17 @@ async def start(bot: Client, msg: Message):
 
 Tʜɪs ɪs {me2},
 Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
-ᴊɪsᴋᴇ ᴊᴀɪʙ ᴍᴇ ɢᴀɴᴅʜɪ  ᴄʜᴏʀɪ ᴜsᴋᴇ ᴘʏᴀᴀʀ ᴍᴇ ᴀᴀɴᴅʜɪ 🖤.
+ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ sʜᴀʀᴇ ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ ᴛᴏ ᴀɴʏᴏɴᴇ 🤝.
 
-Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [sʟᴀʏᴇʀ ʜᴏɴᴇʏ](https://t.me/Slayer_Honey_XD) !""",
+Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [ʜᴏɴᴇʏ](https://t.me/OgHoneyy) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://t.me/Slayerr_Honey_XD"),
-                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/Slayer_Honey_XD")
+                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Honey_networks"),
+                    InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/OgHoneyy")
                 ]
             ]
         ),
